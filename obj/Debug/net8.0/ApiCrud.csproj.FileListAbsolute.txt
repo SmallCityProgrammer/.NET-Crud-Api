@@ -31,3 +31,4 @@ C:\Users\Eliezer Castro\Desktop\Cursos C#\ApiCrud\obj\Debug\net8.0\refint\ApiCru
 C:\Users\Eliezer Castro\Desktop\Cursos C#\ApiCrud\obj\Debug\net8.0\ApiCrud.pdb
 C:\Users\Eliezer Castro\Desktop\Cursos C#\ApiCrud\obj\Debug\net8.0\ApiCrud.genruntimeconfig.cache
 C:\Users\Eliezer Castro\Desktop\Cursos C#\ApiCrud\obj\Debug\net8.0\ref\ApiCrud.dll
+C:\Users\Eliezer Castro\Desktop\Cursos C#\ApiCrud\obj\Debug\net8.0\ApiCrud.sourcelink.json
