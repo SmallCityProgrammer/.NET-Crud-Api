@@ -9,7 +9,7 @@ namespace ApiCrud.Estudantes
     {
         public static void AddRotasEstudantes(this WebApplication app)
         {
-            app.MapGet("estudantes", () => "Hello estudantes!");
+            app.MapGet("estudantes", () => new Estudante("Eliezer"));
         }
     }
 }
